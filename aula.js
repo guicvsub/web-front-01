@@ -12,3 +12,7 @@ console.log("chatao ");
 //criando variavel 
 let mensagem ="ola mundo";
 console.log("esse console e da variavel ", mensagem);
+let nome = "guilherme";
+let sobrenome = "santiago ";
+console.log(nome)
+console.log(sobrenome)
