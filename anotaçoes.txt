@@ -1,0 +1,2 @@
+ls-la comanfo linux para listar 
+git breanch --all
