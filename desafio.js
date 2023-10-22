@@ -1,5 +1,5 @@
 // Array de cidades
-const cities = ['Nova York', 'Los Angeles', 'Chicago', 'Miami'];
+const cities = ['sao paulo ', 'santos', 'capinas', 'minas gerais'];
 
 // Array para armazenar as cidades em maiúsculas
 const uppercaseCities = [];
